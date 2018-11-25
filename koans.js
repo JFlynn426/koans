@@ -409,3 +409,4 @@ test('Use some and every to determine if a function applied to any or all items 
   t.is(true, onlyEven.every(isEven))
   t.is(true, mixedBag.some(isEven))
 })
+;('nice hendrix reference')
